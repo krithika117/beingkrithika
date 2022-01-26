@@ -1,4 +1,3 @@
-# beingkrithika.com
 
-Visit the site!
-beingkrithika.com
+<h2>Visit the site!</h2>
+<a href = "beingkrithika.com">beingkrithika.com</a>
