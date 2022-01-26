@@ -1,4 +1,4 @@
 
-<h2>My Portfolio.</h2>
-Visit the site @
+<h3>My Portfolio.</h3>
+Visit the site at
 <a href = "beingkrithika.com">beingkrithika.com</a>
